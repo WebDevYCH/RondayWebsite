@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  padding: 0 !important;
+}
+
+body {
+  padding: 0 !important;
+  overflow-x: hidden;
+  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+}
+
+:root {
+  --plyr-color-main: #2cbe9b;
+}
